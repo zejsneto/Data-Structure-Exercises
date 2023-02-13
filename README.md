@@ -73,7 +73,7 @@ Implementar a classe HashTable
 # Lab 10
 
 <p align="center" >
-  <img width="70%" src="/Repository-imgs/Lab10.png" />
+  <img width="70%" src="Respository-imgs/Lab10.png" />
 </p>
 
 ---
@@ -81,10 +81,10 @@ Implementar a classe HashTable
 # Lab 11
 
 <p align="center" >
-  <img width="70%" src="/Repository-imgs/Lab11-01.png" />
+  <img width="70%" src="Respository-imgs/Lab11-01.png" />
 </p>
 <p align="center" >
-  <img width="70%" src="/Repository-imgs/Lab11-02.png" />
+  <img width="70%" src="Respository-imgs/Lab11-02.png" />
 </p>
 
 ---
