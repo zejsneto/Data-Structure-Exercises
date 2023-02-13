@@ -53,7 +53,7 @@ Implementar métodos insere e remove da pilha encadeada.
 # Lab 07
 
 <p align="center" >
-  <img width="70%" src="/repository-imgs/Lab07.png" />
+  <img width="70%" src="Respository-imgs/Lab07.png" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Implementar a classe HashTable
 # Lab 10
 
 <p align="center" >
-  <img width="70%" src="/repository-imgs/Lab10.png" />
+  <img width="70%" src="/Repository-imgs/Lab10.png" />
 </p>
 
 ---
@@ -81,10 +81,10 @@ Implementar a classe HashTable
 # Lab 11
 
 <p align="center" >
-  <img width="70%" src="/repository-imgs/Lab11-01.png" />
+  <img width="70%" src="/Repository-imgs/Lab11-01.png" />
 </p>
 <p align="center" >
-  <img width="70%" src="/repository-imgs/Lab11-02.png" />
+  <img width="70%" src="/Repository-imgs/Lab11-02.png" />
 </p>
 
 ---
